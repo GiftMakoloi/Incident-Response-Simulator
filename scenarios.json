@@ -1,0 +1,10 @@
+{
+  "scenarios": [
+    {
+      "id": "ransomware_01",
+      "name": "Operation DarkLock: Enterprise Ransomware Outbreak",
+      "difficulty": "Intermediate",
+      "initial_step": "step_1"
+    }
+  ]
+}
